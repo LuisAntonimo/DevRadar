@@ -1,3 +1,3 @@
-## **Nada Aqui**
+## **Semana Omnistack 10**
 
-*por enquanto...*
+*Repositório criado durante o workshop gratuíto da [Rocketseat](https://rocketseat.com.br) :rocket:
