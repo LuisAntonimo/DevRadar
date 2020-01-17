@@ -5,4 +5,4 @@
 
 ---
 
-Até o momento, o meu repositório segue a risca o que foi proposto nas aulas durante a semana (a única diferença foi eu não ter usado o Yarn no lugar do npm como package manager)
+Até o momento, o meu repositório segue a risca o que foi proposto nas aulas durante a semana (a única diferença foi eu não ter usado o Yarn no lugar do npm como package manager).
