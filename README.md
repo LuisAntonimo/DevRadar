@@ -1,4 +1,5 @@
-<h1 align="center"> **SEMANA OMNISTACK 10** 💻 </h1>
+<h1 align="center"> <strong>SEMANA OMNISTACK 10</strong> 💻 </h1>
+
 ![alt text](https://i.imgur.com/tXrLaqH.png)
 
 ###### Este é mais um repositório criado durante o workshop gratuíto da **[Rocketseat](https://rocketseat.com.br)** 🚀
@@ -9,6 +10,6 @@ O meu repositório segue a risca o que foi proposto nas aulas durante a semana (
 
 
 
-## Licença
+#### Licença
 
 [MIT](./LICENSE) &copy;
